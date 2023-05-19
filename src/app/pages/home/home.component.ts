@@ -7,20 +7,20 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['home.component.css'],
 })
 export class Home {
-  raw25ou: string = ' '
-  raw6f3b: string = ' '
-  rawvf6o: string = ' '
-  rawhyc1: string = ' '
-  rawqhxl: string = ' '
-  rawpd65: string = ' '
-  rawqtzo: string = ' '
-  rawl445: string = ' '
+  rawa111: string = ' '
+  rawypck: string = ' '
+  raw7b1a: string = ' '
+  raw8flu: string = ' '
+  rawiq7c: string = ' '
+  raw34ta: string = ' '
+  rawguxe: string = ' '
+  rawgol2: string = ' '
   constructor(private title: Title, private meta: Meta) {
-    this.title.setTitle('Worthwhile Animated Woodcock')
+    this.title.setTitle('KC Cloud Tech LLC')
     this.meta.addTags([
       {
         property: 'og:title',
-        content: 'Worthwhile Animated Woodcock',
+        content: 'KC Cloud Tech LLC',
       },
     ])
   }
